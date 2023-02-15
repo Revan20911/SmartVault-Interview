@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzStandard", "FizzBuz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzTwist", "FizzBuzzNormal\FizzBuzzTwist.csproj", "{ECF4A057-19E3-4B63-BDDA-7C1501CF7E7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzTest", "FizzBuzzTest\FizzBuzzTest.csproj", "{4062F4E8-B48C-4CE3-A017-B10325882B6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzTest", "Tests\FizzBuzzTest.csproj", "{4062F4E8-B48C-4CE3-A017-B10325882B6D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomInput", "CustomInput\CustomInput.csproj", "{B414DF9B-1EE9-46CD-ABA1-2BB426CD27D3}"
 EndProject
