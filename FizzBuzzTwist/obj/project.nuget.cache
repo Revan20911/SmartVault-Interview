@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BmQPT/4SNlCVlbc1ZRsSha/igwsOJ27PUUdPUVNQKmKuUeItr2UyiRXAjrO6cxv6s87qzp2jmQBUzrFXsJIA9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\revan\\Downloads\\SmartVault-Interview\\EasyChallenge\\FizzBuzzTwist\\FizzBuzzStandard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\revan\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
