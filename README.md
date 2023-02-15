@@ -1,5 +1,11 @@
-# Choose a challenge
+# Easy Challenge 
 
-Choose either the easy **or** hard challenge, refer to the README.md file in the challenge folder for next steps.
+FizzBuzzNormal is the first console application which prints a standard implementation of the classic FizzBuzz problem to the console.
 
-Please don't share this challenge with any other applicant or recruiting agency, we like to keep things on a fair and level playing field for all applicants.
+FizzBuzzTwist is another console application which prints the values specified in the Easy Challenge instructions. 
+
+CustomInput is a third console application which fully utilizes all methods defined in the TwistedFizzBuzz class library and allows full user input to make selections for each option. 
+
+Tests folder contains a set of tests that check to make sure all methods function properly. 
+
+TwistedFizzBuzz_Library is the class library I created to support the  console applications as requested in the challenge instructions
